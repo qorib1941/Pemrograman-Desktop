@@ -1,3 +1,3 @@
-# Pemrograman-Desktop
-# Nama : Fathul Qorib Yusfila
-# Nim    : 190411100041
+# kumpulan tugas Pemrograman-Desktop
+Nama Mahasiswa: Fathul Qorib Yusfila
+Nim           : 190411100041
