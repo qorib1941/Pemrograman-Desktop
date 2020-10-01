@@ -1,0 +1,23 @@
+a = 2
+b = 5
+c = 6
+d = 9
+e = 3
+
+penambahan = a+b
+pengurangan = d-a
+perkalian = e*c
+pembagian = d/e
+rata_rata = a+b+c+d+e/5
+
+print ("a = 2")
+print("b = 5")
+print("c = 6")
+print("d = 9")
+print("e = 3")
+print("penambahan a+b = ", penambahan)
+print("pengurangan d-a = ", pengurangan)
+print("perkalian e*c = ", perkalian)
+print("pembangian d/e = ", pembagian)
+print("hasil rata rata = ", rata_rata)
+
